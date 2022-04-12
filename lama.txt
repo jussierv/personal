@@ -1,0 +1,2652 @@
+Cialis
+https://www.farmaciaeficacia.com.br/checkout/cart/
+
+SESC Iparana
+33184900
+33184998 (10hs)
+
+https://omens.com.br/blog/ejaculacao-precoce/como-controlar-ejaculacao/#Dicas_para_retardar_e_controlar_a_ejaculacao
+
+https://omens.com.br/blog/sexualidade/exercicios-de-kegel-homens/
+
+paroxetina / sertralina / fluxetina 
+Dapoxetina 
+
+
+SESC 33184900
+Wladirmir - reservas
+
+
+select wm_concat(lama)
+  from (select lower(username) lama
+          from dba_users
+         where user_id between 80 and 400 order by 1);
+         
+         
+select username lama
+  from dba_users
+ --where user_id between 80 and 900 
+ order by 1;         
+
+         
+
+
+/var/www/laboredo/storage/app/exames
+/var/www/laboredo/storage/app
+30GB
+
+
+
+$request->flash();
+return redirect('form')->withInput();
+$username = $request->old('username');
+
+
+
+[11:17, 17/03/2021] Gil Vivo: passo 1:
+instalar as bibliotecas deste pdf:
+[11:17, 17/03/2021] Gil Vivo: instalar as bibliotecas deste pdf:
+
+[11:17, 17/03/2021] Gil Vivo: passo 2:
+[11:17, 17/03/2021] Gil Vivo: baixa este arquivo
+[11:17, 17/03/2021] Gil Vivo: wget https://starkers.keybase.pub/snx_install_linux30.sh?dl=1 -O snx_install.sh
+[11:17, 17/03/2021] Gil Vivo: obs. se tu não conseguir baixar eu tenho ele aqui
+
+[11:17, 17/03/2021] Gil Vivo: passo 3
+[11:17, 17/03/2021] Gil Vivo: executa o chmod 777 neste arquivo que foi feito o download
+
+[11:17, 17/03/2021] Gil Vivo: passo 4:
+[11:17, 17/03/2021] Gil Vivo: agora executa o arquivo com:
+[11:17, 17/03/2021] Gil Vivo: ./snx_install.sh
+
+[11:17, 17/03/2021] Gil Vivo: passo 5:
+[11:17, 17/03/2021] Gil Vivo: localizar onde esta o binário, geramente fica aqui:
+[11:17, 17/03/2021] Gil Vivo: /usr/bin/
+[11:17, 17/03/2021] Gil Vivo: executa o chmod 777  neste binário: snx
+
+[11:17, 17/03/2021] Gil Vivo: passo 1:
+instalar as bibliotecas deste pdf:
+
+[11:17, 17/03/2021] Gil Vivo: passo 2:
+baixa este arquivo
+wget https://starkers.keybase.pub/snx_install_linux30.sh?dl=1 -O snx_install.sh
+
+obs. se tu não conseguir baixar eu tenho ele no meu note
+
+passo 3:
+executa o chmod 777 neste arquivo que foi feito o download
+
+passo 4:
+agora executa o arquivo com:
+./snx_install.sh
+
+
+passo 5:
+localizar onde est o binário e executa' o comando abaixo, geramente fica aqui:
+(/usr/bin/)
+
+executa o chmod 777  neste binário: snx
+
+passo6:
+abre o terminal e executa:
+snx -s endereço-do-servidor -u usuario
+
+
+
+app.php
+
+// App\Providers\BroadcastServiceProvider::class,
+
+    'aliases' =>
+
+
+Lifecycle Overview - Laravel
+-The index.php file loads the Composer generated autoloader definition
+-create an instance of the application / service container
+-HTTP kernel or the console kernel
+-HTTP kernel also defines a list of HTTP middleware
+-These middleware handle reading and writing the HTTP session
+-determining if the application is in maintenance mode, verifying the CSRF token
+-kernel bootstrapping actions is loading the service providers
+-One of the most important service providers in your application
+ is the App\Providers\RouteServiceProvider
+
+bootstrapped -> we mean registering things,
+                including registering service container bindings
+
+
+CEP: 60743-780
+09420902000151
+
+
+
+AKVM8J
+VUZD2I
+
+ACESSO SITE RECEITA
+
+USUÁRIO: 57946230397
+CÓDIGO : 839214224578
+SENHA: Ad264405
+
+Amazon
+
+raphaelbruno2.0@gmail.com
+dev.raphaelsa@gmail.com
+alvessa1986
+
+
+======================
+IDA PRA NAVEGANTES
+======================
+PHUM4V
+AMANDA MARIA MENEZES
+FOR 05/05/21 - 03h20 --> 1 conexão (Boeing 737)  NG
+NVT 05/05/21 - 10h20
+
+AKVM8J
+Embarque 01:00hs
+FOR 05/05/21 - 03h20 --> 1 conexão (Boeing 737)  NG
+NVT 05/05/21 - 10h20
+Eu, Filha, Guga e Mãe
+
+UWNNPT
+VASCONCELOS
+
+Mae
+CPF:06242485346
+20201207197
+
+https://www.latam.com/pt_br/apps/personas/mybookings
+HQHMFQ (Pérola)
+
+
+
+
+Paciente  --> liga -- CLinica  - Especialista ---
+
+Atendente
+    Visão Geral onde ela pode consultar todos Especialista/Medico Datas Livres...
+
+
+
+- Especialidade (disponibilidade)
+- Nome do Paciente / Telefone (agendamento)
+  (rg, cpf, endereço, dt_nasc , email )
+- Confirmação do agendamento (presença) e completo do cadastro
+
+
+
+FiraCode
+
+Wilson Garves
+doutornature
+Senta Errado Nunca mais
+Sinta sua coluna
+Dona de Casa Saudável
+
+
+tarefas.php
+    include "banco.php"
+    include "ajudantes.php"
+    include "template.php";
+            include('formulario.php');
+            <?php if ($exibir_tabela) : ?>
+                <?php include('tabela.php'); ?>
+                    <a href="editar.php?id=>
+            <?php endif; ?>
+
+
+
+
+
+[ctrl+shift+o] atalho para buscar funções
+[shift+f12] atalho para buscar referencias
+
+[ctrl+B] Show side barra
+
+
+Luis Gustavo Castro Vasconcelos
+
+vasconcelosluis@edu.colegioteles.com.br
+
+Jussiêr
+
+Cubernets
+
+Angular
+
+Cafca
+
+Financeira
+
+Agil
+Squed
+
+AccessStage
+Kasper
+
+
+trait php
+
+php artisan make:controller Admin/ProfessionalAvailabilityController
+
+ProfessionalAvailability
+--------------------------
+Weekday
+time_start
+time_end
+appointment_time
+appointment_amount
+clinic_id
+professional_id
+
+
+WeekDay::choices()
+
+exemplo:
+
+    @foreach (\App\Models\Enums\WeekDay::choices() as $weekdayId => $weekdaylabel)
+    <div>@lang($weekdaylabel) ({{$weekdayId}})</div>
+    @endforeach
+
+User -> hasOne (Phone) === Na vida real - "Eu tenho um telefone"
+Phone -> belongsTo (User) === Na vida real - "Esse telefone pertence a mim"
+
+toda vida que uma entidade tiver uma fk, ele pertence a alguém:
+Phone
+-------------
+id
+user_id
+
+Phone -> belongsTo (User)
+
+
+
+
+
+
+git config core.fileMode false
+
+docker stop $(docker ps -a -q); docker-compose up -d
+
+-Countrie
+-Detail / Clinica - Tipos Convenios ..
+
+
+Administração -> Clínica
+
+Tipo de Exame
+
+Modelo de Laudo:
+- Cabeçalho / Rodapé (clinica)
+- Texto (Médico)
+
+-Agendamento Médico
+-Atendimento
+
+scheduller
+
+Médico -> usuario --> clinica(s) -> Agenda Disponivel..
+
+
+Agenda (disponibilidade)
+Clinica
+Dia Semana (1)
+HoraInicio (timestamp)
+HoraFim (timestamp)
+
+1. Seg - 08 as 10
+1. Seg - 16 as 18
+1. ter - 08 as 09
+
+7 * 24 = N
+
+
+Outro Processo
+Gerar os agendamentos -->> Paciente não existe
+Med.01 01/02/2015 08:00 - 08:10
+Med.01 01/02/2015 08:10 - 08:20
+.
+.
+.
+
+
+
+
+
+
+
+
+
+
+Labpacs
+
+1. Remoção do botão do upload pra dentro do Laudo
+2. Organizar o layout com o botão
+3. Controlar a edição do Laudo com Upload (bloqueia)
+4. Médico Salvar e liberar o upload
+5. Botão de Download vai ser excluido
+
+Sugestão de ToolTip...
+
+
+ProductController --> Categories / Attruibute
+
+
+AttributeController ->
+
+
+SubItenms
+editable -> true (OneToMany)
+            false (ManyToMany)
+
+
+
+Categoria Principal - Produto
+
+ssh -p 65002 u156332786@213.190.6.64
+rbasbr86
+
+
+BD/User
+u156332786_scient
+Scient@2021
+
+ACM (Maciel Vieira)
+Dados do Terminal Service
+host: 201.20.113.214:13389
+user: acmcontabil\jussier
+password: lamaq1w2
+
+SQLServer
+sa : mvc@1994
+
+========================
+Servidor Under
+========================
+Ip Publica: 189.113.8.50
+User: Administrator
+Pass: {2[chRtx
+
+Opovo
+usuário: jorge.moraes@labpacs.com.br
+senha: sucesso2020
+
+Servidor LaudoRemoto
+host: 189.113.8.52
+user: laudoremoto
+senha: Lama2007!@#
+
+host: 189.113.8.53
+user: Administrator
+senha: 1234Mud4r
+
+========================
+Servidor Under Novo
+========================
+
+== Dados para acesso a IPMI/DRAC/ILO ==
+URL de acesso: https://drac-p2sjthuhef.underplatform.com ou https://10.66.2.152
+Usuário: p2sjthuhef
+Senha: 4BTz)Q5te4
+
+== Dados do servidor ==
+Hostname: p2sjthuhef.underplatform.com
+IP público configurado: 189.113.8.54
+Usuário: administrator
+Senha: 69KY5w9sWH
+
+
+REDE PÚBLICA (WAN)
+Bloco: 189.113.8.48 /29
+Gateway: 189.113.8.49
+VLAN: 2180
+
+REDE PRIVADA (LAN)
+Bloco: 10.32.21.48 /28
+Gateway: 10.32.21.49
+VLAN: 699
+IP configurado: 10.32.21.51
+
+
+
+AnyDesk 
+654320618
+proinformatica
+
+admin@laboredoimagem.com.br
+@labpacs@
+
+mount -v -t nfs -o vers=4 10.70.0.2:/export/r7wh65dpmz /mnt/nfs
+
+route add -net 10.64.0.0 netmask 255.240.0.0 gw 10.32.21.49 dev eth1
+
+
+Acesso MySql
+User: root
+Pass: kibB2oIX2D7Qpb81FL8e44
+
+DB_CONNECTION=mysql
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=laudorem_base
+DB_USERNAME=laudoremoto
+DB_PASSWORD=kibB2oIX2D7Qpb81FL8e44
+
+GRANT ALL ON *.* to laudoremoto@'localhost' IDENTIFIED BY 'kibB2oIX2D7Qpb81FL8e44';
+
+grant all privileges on *.* to laudoremoto@localhost identified by 'kibB2oIX2D7Qpb81FL8e44' with grant option;
+
+mysqldump -u root -p -B portalseduc --single-transaction -q > /mysql/scripts/portalseduc.sql
+
+mysqldump -u laudoremoto -p -B laudoremoto --single-transaction -q > laudoremoto.sql
+
+
+route add -net 10.64.0.0 netmask 255.240.0.0 gw 10.32.21.49 dev eth1
+10.70.0.2
+
+mount -t nfs 10.70.0.2:/export/r7wh65dpmz /mnt/nfs
+
+mount -v -t nfs -o vers=4 10.70.0.2:/export/r7wh65dpmz /mnt/nfs
+
+eth1:
+
+
+319475-2
+
+fluent with friends
+
+
+by the way -> a propósito / falando nisso
+you know
+
+He wanted to know
+
+
+What did you think?
+What do you think?
+
+I do not know
+I don't know
+I dunno!
+
+
+What did you tell him?
+Wadjã?
+
+What did you give them?
+
+What did you tell them?
+Wadjã tell them
+Wadjã tell em
+Wadjã tell'm (them)
+
+What did you tell her?
+Wadjã tell her
+Wadjã tell er
+Wadjã tell'r (her)
+
+What did you tell him?
+Wadjã tell him
+Wadjã tell im
+Wadjã tell'm (him)
+
+
+=================================================
+REDUÇÃO DE "OF" - "Ã" -
+Onde não acontece: seguido de som de vogal
+=================================================
+A handful of (ãv / uv) ideas
+A lot of (uv) offices
+
+
+I gave him  a handful of ideas.
+I gave'm
+
+I visited a lot of offices.
+
+=================================================
+Onde acontece: seguido de som de consoante
+=================================================
+
+one of(uv) my friends
+one u my friends
+
+a lot of(uv) people
+a lot u people
+lot + of = lotta
+sort + of = sorta tired
+kind + of = kinda tired
+
+cup of(uv) coffee
+cup u coffee
+
+She's one of my friends!
+
+I know a lot of people there!
+
+==================================================
+
+I know what I'm getting you
+What I'm
+What i
+
+
+O Som do "Flap T"
+Got it! (entendi)
+Gotcha = I got you
+
+I feel you (saquei)
+
+Not at all! (De nada! / Claro que não)
+Don't mention it
+
+Not a problem! (sem problema)
+Not even a little bit (nenhum um pouquinho)
+
+Happy to help (Fico feliz em ajudar)
+
+Home Office
+I work from home!
+
+
+What did he want? (Wári)
+What did he (What'e)
+What did'e want?
+What'e want?
+
+Do you need a hand?
+Dja need a hand?
+
+You all are = Y'all're smart
+
+
+I give
+I gave him a handful of ideas...
+I know what I'm getting you..
+
+Nope
+Never
+No way (sem chance, nem a pau)
+
+
+
+
+
+
+Olá  Camarada, veja os comentários abaixo, que fiz pra under  e a resposta deles.
+
+Obs.    Da VM windows, eu consigo pingar o IP 10.32.21.52 ( que é a Linux), também consigo pingar o IP  10.64.2.62  e, conforme falei, o tracert mostra que o pacote sai pelo IP 10.32.21.49.  No caso  da VM laudoremoto, vc  consegue pingar o 10.32.21.53 nê ?
+
+
+OLá
+
+ Conseguimos  acessar o servidor de backup, a partir do nosso servidor, mas com a VM linux, estamos tendo problemas, por favor vejam abaixo os comandos sugeridos e os comentários?
+
+Comando para montar o disco em sua VM:
+NFSv3
+mount -v -t nfs -o vers=3 10.64.2.62:/vol_0001 /mnt/nas
+
+ESTE COMANDO  O PACOTE SAI PELA INTERFACE DA REDE PRIVADA, MAS DA TIMEoUT--NAO PINGA O SERVIDOR DE BACKUP
+
+NFSv4
+mount -v -t nfs -o vers=4 10.64.2.62:/vol_0001 /mnt/nas
+
+mount -t cifs -o username=<win_share_user> //WIN_SHARE_IP/<share_name> /mnt/win_share
+
+mount -t cifs -o username=UN1078715,password=KcY4U65ebm //10.64.2.62:/vol_0001 /mnt/win_share
+
+
+
+KcY4U65ebm
+
+ESTE COMANDO O PACOTE SAI PELA INTERFACE DA REDE PÚBLICA !
+
+  è necessário atribuir o IP 10.2.21.49 como GW  da interface da  rede privada?  (  o tracert  no VM windows ou servidor mostra esse primeiro salto).
+
+
+
+https://ead.napratica.org.br/enrollments/5444606/courses/36692/course_contents/1488202
+
+Controller
+CrudController
+
+form.php
+
+vue -js
+
+
+reduce javascript-----------------------------0
+
+AFONSO PADILHA - Flow Podcast #202
+KIM KATAGUIRI - Flow Podcast #50
+KIM KATAGUIRI - Flow Quarentena Edition #07
+LORD VINHETEIRO - Flow Podcast #71
+RENAN SANTOS (MBL) - Flow Podcast #90
+
+
+docker ps -a
+docker ps
+docker exec -it 3466024c45af /bin/bash
+chmod -R 777 html/
+
+
+add /etc/apache2/apache2.conf
+ServerName localhost
+
+
+find / -iname docker-entrypoint.sh
+chown -R nulaya:nulaya /var/lib/docker/overlay2/
+chmod 775 /var/lib/docker/overlay2/420960337fdd65742e8dbc9a8c0fd7cce967f4b6b3dd8d3da2edad3a50a912e1/merged/docker-entrypoint.sh
+
+comment and uncommeted
+- ./.docker/config/postgres/:/docker-entrypoint-initdb.d/
+#- ./init-db.sql:/docker-entrypoint-initdb.d/init.sql
+
+
+
+
+gt2 puley
+nema 17 (motor de passo)
+reprap
+marlin firmware
+
+CCD
+CMOS
+
+
+557483
+
+SSH
+Exec: ssh laudoremoto@189.113.8.52
+Pass: Lama2007!@#
+
+mysqldump -u laudoremoto -p -B laudoremoto --single-transaction -q > laudoremoto.sql
+
+
+
+php artisan make:model Item -m
+    2020_11_28_181248_create_items_table
+
+php artisan migrate
+
+--Create CRUD
+--Laravel resource routing assigns the typical "CRUD" routes to a controller with a single line of code.
+php artisan make:controller ItemController --resource
+
+api.php
+web.php
+
+#Basic Routing
+Route::get('/items',[ItemController::class,'index']);
+
+#Route Prefixes
+#The prefix method may be used to prefix each route in the group with a given URI. #For example, you may want to prefix all route URIs within the group with admin:
+
+
+================
+Metodos HTTP
+================
+
+
+controller.php
+CrudController.php
+
+
+edimentos/exames/consultas.
+cat /usr/local/bin/clarus-rsync.sh
+#!/bin/bash
+
+YYYYMM=$(date "+%Y-%m")
+DDHHMISS=$(date "+Dia%d-%Hh%Mm%Ss")
+
+rsync \
+ --archive \
+ --perms \
+ --xattrs \
+ --acls \
+ --owner \
+ --group \
+ --executability \
+ --devices \
+ --links \
+ --specials \
+ --recursive \
+ --delete-excluded \
+ --ignore-errors \
+ --progress \
+ --verbose \
+ --backup \
+ --backup-dir=../clarus-versions/"${YYYYMM}"/"${DDHHMISS}" \
+ /d01/samba/clarus/ \
+ /d01/samba/clarus-rsynced
+
+exit 0;
+
+
+
+
+
+
+====================
+Roteiro Estudo
+====================
+https://ead.taugor.com.br/course/index/9/
+
+https://www.oracle.com/br/technical-resources/articles/database-performance/dbpitr-tspitr-rman.html
+
+Curso Web Moderno Completo com JavaScript 2021 + Projetos
+105. Evitando modificações
+
+Udemy
+https://www.udemy.com/course/curso-web/learn/lecture/9075098#overview
+
+jornadadoingles
+https://jornadadoingles30.club.hotmart.com/login
+
+IA Aplicada a Detecção de Pneumonia em Raio-X - (09/04/21)
+Introdução ao Aprendizado de Máquina e Classificação
+
+{
+https://www.youtube.com/watch?v=Q0mQ3ge2Prg&ab_channel=NauberGois
+https://www.youtube.com/watch?v=d8U7ygZ48Sc&ab_channel=OComputeiro
+}
+
+Digitalização
+https://www.youtube.com/watch?v=dE5wNqnHLLc&ab_channel=Digitaliza%C3%A7%C3%A3oeNeg%C3%B3cios
+
+Laravel Documentation
+- Basics: Views (28/03/21)
+- Database: Query Builder (15/04/21)
+- Eloquent ORM: Getting Started (16/04/21)
+
+Linux (01/04/21)
+Cap 04 : Discos e Sistemas (4.2.5)
+
+
+https://www.learnpython.org/
+O Tutorial Python (07/04/21)
+Cap 07: Entrada e saída
+https://docs.python.org/pt-br/3/tutorial/errors.html
+
+
+Data Science do Zero (09/04/21)
+Cap 05: Estatistica
+
+Sapiens
+Cap 03
+
+Padrão de Projetos
+
+O Poder da ação
+
+Pendente:
+
+https://www.atlassian.com/br/git/tutorials/saving-changes/git-stash
+https://nextjs.org/
+
+Vue.js
+https://br.vuejs.org/v2/guide/index.html
+
+PSR-7: HTTP message interfaces
+https://www.php-fig.org/psr/psr-7/
+
+dd - Linux
+https://wiki.archlinux.org/index.php/Dd_(Portugu%C3%AAs)
+
+The BIOS/MBR Boot Process
+https://neosmart.net/wiki/mbr-boot-process/
+
+https://www.virtualbox.org/manual/
+
+https://getcomposer.org/doc/
+
+https://www.computerhope.com/unihox/losetup.htm
+https://sysplay.in/blog/tag/losetup/
+https://man.archlinux.org/man/losetup.8.en
+https://en.wikipedia.org/wiki/Loop_device
+https://www.systutorials.com/docs/linux/man/8-losetup/
+https://www.thegeekdiary.com/how-to-create-virtual-block-device-loop-device-filesystem-in-linux/
+
+
+
+Sugestao Livros:
+The Linux Command Line - Starch Press
+Unix for the Impatient - Addison-Wesley Pressional
+Learning the UNIX Operating System - O'Reilly
+Fundamentos de Sistemas Operacionais - Abrahan Silberschaltz - Peter Baer Galvin - Greg Gagne
+Dominando expressões regulares - AltaBooks
+Programmimg Perl - O'Reilly - cap. Expressoes Regulares
+Introduction to Automata Theory, Language, and Computation - Prentice Hall
+
+
+
+
+
+        // $qb = DB::table('professional_schedules')
+        //              ->join('clinics','clinics.id','=',"professional_schedules.clinic_id");
+
+//        $qb1 = ProfessionalSchedule::all()->find('id');
+        $qb2 = DB::table('professional_schedules')->where('id',1)->get();
+
+        /*
+        ProfessionalSchedule::chunk(10, function ($professionalsSchedulles) {
+            foreach ($professionalsSchedulles as $professionalsSchedulle) {
+                //print($professionalsSchedulle->id . '<br>');
+            }
+        });;
+*/
+        //print($qb1->count());
+        dd($qb1, $qb2);
+
+
+ManyToMany ProfessionalSpecialty
+Adicionar Na Disponibilidade e Agenda
+
+OR
+
+
+Parent (User --> Phone)
+
+=========================================
+One To One --> hasOne()
+=========================================
+    User
+    phone($this->hasOne(Phone::class))
+
+    Phone (User_id->fk)
+    user($this->belongsTo(User::class);)
+
+$phone = User::find(1)->phone;
+
+=========================================
+One To Many
+=========================================
+    Post
+    comments( $this->hasMany(Comment::class))
+
+    Comment (Post_id->fk)
+    post($this->belongsTo(Post::class))
+
+$comment = Comment::find(1);
+return $comment->post->title;
+
+$comments = Post::find(1)->comments;
+foreach ($comments as $comment) {
+    //
+}
+
+=========================================
+Many To Many
+=========================================
+    users
+        id - integer
+        name - string
+
+    roles
+        id - integer
+        name - string
+
+    role_user
+        user_id - integer
+        role_id - integer
+
+    User
+    roles($this->belongsToMany(Role::class))
+
+    Role
+    users($this->belongsToMany(User::class))
+
+
+    Professional
+
+    Speaciality
+
+$user = User::find(1);
+foreach ($user->roles as $role) {
+
+
+
+=========================================
+Has One Through
+=========================================
+    Mechanic
+    carOwner($this->hasOneThrough(Owner::class, Car::class))
+
+=========================================
+Has Many Through
+=========================================
+
+One To One (Polymorphic)
+One To Many (Polymorphic)
+Many To Many (Polymorphic)
+
+Has One Through
+Has Many Through
+
+
+    Professional
+    user($this->hasOne(User::class))
+
+    User (Professional_id)
+    Professional($this->belongsTo(Professional::class))
+
+
+
+189.84.115.84:5030
+==============
+Union Server
+==============
+Usuario:    UniallTechSE
+Senha:      @uat@321@
+Domain:     srv-unialltech
+
+===========
+SQLServer
+===========
+sa
+
+uat@2sql
+
+
+Alencar...
+Procopio
+989018540
+Granito metro quadrado: R$ 395 m2
+
+
+H&M Mármores e Granitos
+Fortaleza - CE · (85) 3485-3555
+Alves
+400 m2
+
+
+JG Mármores e Granitos
+Av. Pres. Juscelino Kubitschek, 3505 - Passaré,
+Fortaleza - CE, 60810-670
+420m2
+
+
+======================
+Zeh de Alessandro
+======================
+
+011044105004437800
+
+70141767000116
+
+
+--01/09/2021
+011044105004444000
+
+
+update empresa set chaveacesso = '011044105004444000' where cnpj = '70141767000116'
+update filial set chaveacesso = '011044105004444000' where cnpj = '70141767000116'
+
+select chaveacesso,* from empresa where cnpj = '70141767000116'
+select chaveacesso,* from filial where cnpj = '70141767000116'
+
+
+
+select * from parametros
+
+
+select chaveacesso,* from empresa
+
+select * from usuario
+
+select naoValidarCliente,* from parametros
+
+
+select chaveacesso,* from filial
+
+update empresa set chaveacesso = '011044105004437800'
+
+010944130004421100
+
+011044105004437800
+
+update parametros set naoValidarCliente =1
+
+
+Select IsNull(SeqVenda,0) as Seq, *
+  from filial
+
+SeqNF
+SeqNfe
+
+
+select chave,* from progestor.clientes where cpfcnpj = '70141767000116'
+
+update progestor.clientes set chave = '011044105004444000' where cpfcnpj = '70141767000116'
+
+
+
+
+
+
+Lj_TempVendaPedido
+
+alter table lj_venda add idBancoBoleto int;
+alter table lj_venda add ChaveReferenciada Varchar(50);
+alter table lj_venda add calculaFrete Varchar(1);
+
+
+CREATE TABLE [dbo].[Lj_TempVendaPedido](
+    [IdVendaPedido] [numeric](18, 0) IDENTITY(1,1) NOT NULL,
+    [IdMaquina] [varchar](20) NOT NULL,
+    [Idempresa] [int] NULL,
+    [IdLoja] [int] NULL,
+    [IdVenda] [int] NULL,
+    [Item] [int] NULL,
+    [IdReferencia] [varchar](15) NULL,
+    [Descricao] [varchar](100) NULL,
+    [Cor] [int] NULL,
+    [Tam] [varchar](3) NULL,
+    [Qtde] [float] NULL,
+    [CodBarras] [varchar](14) NULL,
+    [VlrUnitario] [float] NULL,
+    [VlrDesconto] [float] NULL,
+    [Total] [float] NULL,
+    [DescCor] [varchar](30) NULL,
+    [Icms] [float] NULL,
+    [Fator] [float] NULL,
+    [Fornecedor] [varchar](50) NULL,
+    [Bonus] [varchar](1) NULL,
+    [NumeroSerie] [varchar](50) NULL,
+    [Cancelado] [varchar](1) NULL,
+    [IdAliquota] [varchar](3) NULL,
+    [VlrFator] [float] NULL,
+    [ValorTabela] [float] NULL,
+    [IdTabela] [int] NULL,
+    [PercComissao] [float] NULL,
+    [ValorComissao] [float] NULL,
+    [status] [varchar](1) NULL,
+    [Und] [varchar](10) NULL,
+    [Cst] [varchar](3) NULL,
+    [Ncm] [varchar](8) NULL,
+    [DescPreco] [varchar](50) NULL,
+    [PrecoCusto] [float] NULL,
+    [PrecoCompra] [float] NULL,
+    [ValorBonus] [float] NULL,
+    [ServicoEntrega] [varchar](1) NULL,
+    [MaiorValor] [varchar](1) NULL,
+    [ItemPai] [varchar](15) NULL,
+    [Cfop] [varchar](5) NULL,
+    [ValorTotal] [float] NULL,
+    [CodPai] [int] NULL,
+    [Observacoes] [varchar](150) NULL,
+    [Impcozinha] [varchar](1) NULL,
+    [IdUsuAut] [int] NULL,
+    [Estoque] [float] NULL,
+    [Autorizado] [varchar](1) NULL,
+    [IdEstoque] [int] NULL,
+    [BaseIcms] [float] NULL,
+    [ValorIcms] [float] NULL,
+    [IPI] [float] NULL,
+    [ValorPauta] [float] NULL,
+    [QtdeAtendido] [float] NULL,
+    [QtdeSolic] [float] NULL,
+    [PercDesconto] [float] NULL,
+    [PercPromocao] [float] NULL,
+    [ValorPromocao] [float] NULL,
+    [Promocao] [varchar](1) NULL,
+    [Cest] [varchar](7) NULL,
+    [Peso] [float] NULL,
+    [Pis] [float] NULL,
+    [Cofins] [float] NULL,
+    [QtdeUnd] [float] NULL,
+    [TotalPisCof] [float] NULL,
+    [FretePesoVol] [float] NULL,
+    [Atualizado] [varchar](1) NULL,
+    [TipoItem] [varchar](1) NULL,
+    [Separacao] [varchar](1) NULL,
+    [UndVenda] [varchar](5) NULL,
+    [DescEstoque] [varchar](50) NULL,
+    [Est] [float] NULL,
+    [VlPromo] [float] NULL,
+    [Valor] [float] NULL,
+    [DesctoGru] [float] NULL,
+    [DesctoPro] [float] NULL,
+ CONSTRAINT [PK_Lj_TempVendaPedido] PRIMARY KEY CLUSTERED
+(
+    [IdVendaPedido] ASC,
+    [IdMaquina] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+
+
+
+CREATE TABLE [dbo].[Lj_Negativacao](
+    [IdNegativacao] [int] IDENTITY(1,1) NOT NULL,
+    [CpfCnpj] [varchar](14) NULL,
+    [Nome] [varchar](50) NULL,
+    [Negativado] [varchar](1) NULL,
+    [Data] [datetime] NULL,
+ CONSTRAINT [PK_Lj_Negativacao] PRIMARY KEY CLUSTERED
+(
+    [IdNegativacao] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+alter table lj_vendaItem add desctoGeralGru float;
+alter table lj_vendaItem add desctoGru float;
+alter table lj_vendaItem add desctoPro float;
+
+alter table lj_nf add idBancoBoleto varchar(1);
+alter table lj_nf add idCondPgto int;
+alter table lj_nf add idFormaPgto int;
+
+
+alter table clientes add EnderecoEntrega Varchar(1);
+alter table clientes add Cnpj_cob Varchar(15);
+alter table clientes add Fone_cob Varchar(12);
+alter table clientes add Insc_Cob Varchar(20);
+alter table clientes add Nome_Cob Varchar(50);
+
+
+alter table lj_nf add idBancoBoleto varchar(1);
+alter table lj_nf add idCondPgto int;
+alter table lj_nf add idFormaPgto int;
+
+alter table careceber add idBancoBoleto int;
+
+alter table lj_produtos add CodANP varchar(9);
+alter table lj_produtos add LocAndar varchar(3);
+alter table lj_produtos add LocApto varchar(5);
+alter table lj_produtos add LocPredio varchar(3);
+alter table lj_produtos add LocRua varchar(9);
+alter table lj_produtos add WebAltura float;
+alter table lj_produtos add webCircunferencia float;
+alter table lj_produtos add WebCor float;
+alter table lj_produtos add WebCubagem float;
+alter table lj_produtos add webDiametro float;
+alter table lj_produtos add WebLargura float;
+alter table lj_produtos add WebPeso float;
+alter table lj_produtos add WebProfundidade float;
+alter table lj_produtos add WebVolume float;
+
+
+alter table Lj_MDFe add PlacaReb varchar(7)
+alter table Lj_MDFe add RenavanReb varchar(30)
+alter table Lj_MDFe add UfReb varchar(2)
+
+
+$$ Consultórios (clinica) (rooms)
+   -id
+   -title
+   -clinic_id
+
+
+ProfessionalRoom
+$$ Lotacao_Medico (professional_room)
+   id
+   professional_id
+   room_id
+   started_at
+   end_at
+   timestamp
+   softdeletes
+
+
+Login Médico -> Sala
+
+    Prioridade e Normal (attributo attendimento)
+
+Controle de Alternância (normal e atendimento)
+
+alter table attendances add priority integer default 2;
+
+
+
+
+
+
+
+Divisão de Padrões:
+
+Propósito: Criação / Estrutural / Comportamental
+
+Escopo: Classe / Objeto
+
+
+========
+AutoLac
+========
+Coletas -> Convenio -> Plano -> Tabela de Preço
+
+
+
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+
+    function searchCep(){
+        //alert('submeteu');
+        startPreloader();
+
+        let cep = document.getElementById('cep').value
+        axios.get(`https://brasilapi.com.br/api/cep/v1/${cep}`)
+        //axios.get(`https://api.postmon.com.br/v1/cep/${cep}`)
+                        .then(
+                            response => {
+                                            loaderHide();
+                                            this.apiCep = response.data
+                                            showResults(this.apiCep);
+                                        }
+                            )
+                        .catch(
+                            error => {
+                                        console.log(error)
+
+                                        // Mostra a div com o erro
+                                        document.getElementById('error').style.display = 'block'
+
+                                        // Mostra a mensagem
+                                        document.getElementById('error').innerHTML = 'Erro inesperado'
+                                    }
+                            )
+                        .finally(
+                            () => endPreloader()
+                        )
+
+        event.preventDefault();
+    }
+
+    function showResults(address){
+
+        document.getElementById('results').style.display = "block";
+        document.getElementById('results').innerHTML = `<p><b>Bairro: </b> ${address.neighborhood} </p>
+                                                        <p><b>Cidade: </b> ${address.city} </p>
+                                                        <p><b>Logradouro: </b> ${address.street} </p>
+                                                        <p><b>CEP: </b> ${address.cep} </p>
+                                                       `;
+    }
+
+    function startPreloader(){
+
+        document.getElementById('preloader').style.display = 'block';
+        document.getElementById('results').innerHTML = '';
+        document.getElementById('results').style.display = 'none';
+    }
+
+    function endPreloader(){
+
+        document.getElementById('preloader').style.display = 'none';
+    }
+
+</script>
+
+<div>
+    <form id="form-cep" method="POST">
+        <input type="text" name="cep" id="cep" placeholder="Informe o cep" onblur="searchCep()">
+        <button type="submit">Buscar</button>
+    </form>
+    <br>
+</div>
+
+<div id="preloader" style="display: none;">carregando...</div>
+<div id="results" style="display: none; "></div>
+<div id="error" style="display: none; "></div>
+
+
+
+
+
+codigoLis: Código do atendimento no CLINI
+identificadorLis: Código identificador no Autolac, relacionado ao local de coleta
+origemLis: Código identificador no Autolac, relacionado ao local de coleta
+criacaoLis: datatime [2021-06-15T15:27:13-0300]
+solicitacoes: {
+    solicitacao: {
+        codigoLis: Código do atendimento no CLINI
+        criacaoLis: datatime [2021-06-15T15:27:13-0300]
+        paciente: {
+            codigoLis: Código do paciente no CLINI
+            nome: Nome do Paciente
+            nascimento
+            rg
+            cpf
+            sexo
+        },
+        exames: {
+            exame: {
+                codigoLis: Código do exame no Autolac
+                amostraLis:
+                materialLis:
+                solicitantes: {
+                    conselho: Conselho do solicitante
+                    uf: UF do Conselho
+                    numero: Número do conselho do solicitante
+                    nome: Nome do solicitante
+                }
+                ordenador:
+                descricao_material:
+                descricao_diurese:
+                }
+            }
+            }
+        }
+}
+
+
+
+find /oracle/u01/app/oracle/diag -type f -iname '*.lck' -exec rm -fv {} \;
+find /oracle/u01/app/oracle/diag -type f -iname '*.aud' -exec rm -fv {} \;
+find /oracle/u01/app/oracle/diag -type f -iname '*.trm' -exec rm -fv {} \;
+find /oracle/u01/app/oracle/diag -type f -iname '*.trc' -exec rm -fv {} \;
+find /oracle/u01/app/oracle/diag -type f -iname 'log_*.xml' -exec rm -fv {} \;
+
+
+find /oracle/u01/app/oracle/diag/rdbms/sme/sme/alert -type f -iname 'log_*.xml' -exec rm -fv {} \;
+
+schedulle
+   new attendance
+   confirm -> replica patient_id (schedulle)
+
+
+Attendance
+  - patient_id
+
+
+seletor css
+tagname: div
+class: .class
+id: #id
+attribute: [attribute=value]
+
+div.block
+input#cpf
+.block#lama
+.block a
+
+
+Naruto
+https://docero.com.br/doc/885e05
+
+
+
+<?xml version="1.0"?>
+<DATAPACKET>
+  <ROWDATA Version="4.30">
+    <ROW Type="NW" PatientID="00390577" PatientsName="ZEZIM SILVA" Modality="US" PatientsBirthDate="19470402"
+PatientsSex="F" RequestingPhysician="FRANCISCO FULANO" AccessionNumber="333147" ScheduledProcedureStepStartDate="20200730"
+ScheduledProcedureStepStartTime="1609" ScheduledProcedureStepDescription="US TRANSVAGINAL" StudyStatus="SCHEDULED"/>
+  </ROWDATA>
+</DATAPACKET>
+
+
+==============
+Prices
+==============
+id serial
+started_at timestamp
+ended_at timestamp
+priceable integer (1: Speacialty, 2: ExamType, 3: ProcedureType)
+priceable_id (id_speacialty, id_examType, id_ProcedureType)
+price decimal
+clinic_id
+
+
+01 a 05/01/2015   1 Speacialty::Class     1   15.0
+06 a 10/01/2015   1 Speacialty::Class     1   15.0
+06 a 10/01/2015   1 Speacialty::Class     2   17.0
+
+
+
+
+            $table->unsignedBigInteger('address_id');
+            $table->foreign('address_id')->references('id')->on('addresses')->onDelete('cascade');
+            $table->unsignedBigInteger('addressable_id');
+            $table->string('addressable_type');
+
+
+==================
+ProfessionalTaxes
+==================
+id serial
+professioanal_id integer
+clinic_id integer
+speacialy_id integer
+percentual decimal
+
+
+Oracle - SME
+DBID=1627258462
+
+
+
+
+oxford
+cambridge
+Macmillan
+Longman
+
+thesaurus.com
+linguee.com
+
+
+
+
+Reserva_apto
+  -> reserva_apto_periodo (apto ou tipo)
+     -> reserva_hospede
+        -> ClienteHosped (table: Pessoa) Null
+     -> refeicoes
+     -> valores
+     -> resumoFinanceiro
+     -> anexos
+
+Hospedagem (reserva_apto_periodo - fk null)
+  -> hospedagem_hospede
+  -> refeicoes
+  -> valores
+  -> resumoFinanceiro
+  -> anexos
+
+
+Pré-pagamento
+
+
+
+Reserva
+ -> processar os tabsheets ao salvar
+
+
+
+
+- Produtividade
+- Quantitativo de Exames por Modalidade x Medico
+- Quantitivo Importação do Pacs
+- Valoriza
+
+clini.priceable_type
+
+trait php
+Konekt
+
+60743-780
+
+select rank() over(partition by priority order by created_at) as n,
+created,priority, *
+from  attendances
+order by n
+
+
+
+select rank() over(partition by priority order by created_at) as n, *
+  from attendances
+ where exists (select *
+                 from professional_schedules
+                where attendances.professional_schedule_id = professional_schedules.id
+                  and clinic_id = ?
+                  and professional_schedules.deleted_at is null)
+   and exists (select *
+                 from professionals
+                inner join professional_schedules on professional_schedules.professional_id = professionals.id
+                where professional_schedules.id = attendances.professional_schedule_id
+                  and exists (select *
+                                from users
+                               where professionals.id = users.professional_id
+                                 and exists (select *
+                                               from clinics
+                                              inner join clinic_user on clinics.id = clinic_user.clinic_id
+                                              where users.id = clinic_user.user_id
+                                                and clinics.id = ?
+                                                and clinic_user.deleted_at is null
+                                                and clinics.deleted_at is null)
+                                 and users.deleted_at is null)
+                 and professional_schedules.deleted_at is null
+                 and professional_schedules.deleted_at is null
+                 and professionals.deleted_at is null)
+    and (not exists (select *
+                       from appointments
+                      where attendances.id = appointments.attendance_id
+                        and appointments.deleted_at is null) or
+             exists (select *
+                       from appointments
+                      where attendances.id = appointments.attendance_id
+                        and done_at is null
+                        and appointments.deleted_at is null)
+        )
+    and attendances.deleted_at is null
+order by ended_at IS NOT NULL, ended_at DESC, started_at IS NULL, started_at DESC,
+called_at IS NULL, called_at DESC, n asc
+
+
+https://www.youtube.com/playlist?list=PLi_gvjv-JgXqop7hgVKZMGPiT9rUYy1sr
+
+raphaelbruno2.0@gmail.com
+alvessa1986
+
+https://docs.oracle.com/cd/E11882_01/backup.112/e10642/toc.htm
+
+
+
+
+create database teste with template="template1" enconding='UTF8' LC_COLLATE='pt_BR'
+
+========
+STG 
+========
+
+Controle Financeiro Orçamento 
+
+- Consulta - STG 
+- AutoLac - 
+
+
+git config --global credential.helper cache
+git config --global credential.helper store
+
+
+- Pente fino nos cadastros (obrigatoriedade)
+- descricao não precisa ser obrigatório 
+- título sempre obrigatório 
+
+
+
+LOCK TABLE mytable in exclusive mode;
+
+ALTER SESSION ENABLE PARALLEL DDL;
+ALTER SESSION SET DDL_LOCK_TIMEOUT= 600;
+
+alter table educacao.tb_rastreamento_covid add constraint fk_cd_aluno foreign key (cd_aluno) references educacao.TB_ALUNO (CI_ALUNO);
+
+ALTER TABLE temporario.tb_feiraciencias_inscricao 
+ADD CONSTRAINT fk_cd_classe_feira
+   FOREIGN KEY (cd_classe)
+   REFERENCES educacao.tb_classe (ci_classe);
+   
+
+select 'ALTER SYSTEM KILL SESSION '||chr(39)||b.sid||','||b.serial#||chr(39)||';' ddl ,c.owner,c.object_name,c.object_type,b.sid,b.serial#,b.status,b.osuser,b.machine
+  FROM v$locked_object a,v$session b,dba_objects c
+ WHERE b.sid = a.session_id
+   and a.object_id = c.object_id;
+
+   
+   
+================
+ProInformática
+================
+
+relatórios -> gerencial - impostos 
+
+1 - Layout Movimento Contabilidade
+
+2 -	Proboleto Arquivo Remessa não gera Cobrança Vinculada(02VIN)
+
+3  -	Proboleto arquivo Remessa não gera protesto.
+
+4  -	Fazer Layout para Banco Ecoval.
+
+facSys / Cobrança / Secsys /
+
+5  - Relatório de Impostos Corrigir Aliquotas Para Securitizadora :
+   PIS = 0,65% (8109) / 6912 (ok)
+   COFINS = 3% (2172) / 5856 (ok)
+   CSLL = 9% x 12% = 1,08% (2372)  / 2484  (ok)
+   IRPJ = 15% x 8% = 1,2% (2089) / 2362 (ok)
+   
+
+6 - Importa títulos de arquivo XML.
+
+7 - controle de versão
+
+cedente -> emitente
+sacado -> destinatario 
+<cobr> 
+    titulos 
+    
+    
+ISS  0,00
+PIS  0,65
+COFINS  3 
+
+IR   	ao inves fixo eu pego tela parametro secSys 
+CSLL 	ao inves fixo eu pego tela parametro secSys 
+
+
+Cadastro Cliente 
+IOF
+IOF ADICIONAL 
+
+
+===============
+Contas
+===============
+Casa              2017,00
+Cond. Apto		   360,00	
+Tim 			   120,00
+Pensão			  1000,00 
+Unimed Filhos      634,59
+Unimed Filha 	   233,27
+Natação Correios   130,00
+Natação SESC 		59,50
+Cruzeiro		   160,00
+Cagece 			   100,00
+Mercantil 
+
+
+5.4.17-2102.202.5.el7uek.x86_64
+
+4.1.12-124.48.6.el6uek.x86_64  - savana
+
+5.4.17-2102.202.5.el7uek.x86_64
+
+
+array 
+	map
+	filter 
+	reduce 
+
+destructing object js 
+
+
+======================
+PRONTON
+======================
+
+Banco Autolac
+SQL Server 2016
+host: clini.dualbit.com.br
+user: sa
+password: M@3389riz
+
+Banco STG
+PostgreSQL
+host: clini.dualbit.com.br
+port: 4168
+user: postgres
+password: 123456
+
+host: clini.dualbit.com.br
+user: jussier@lablinus.local
+password: linus@q1w2
+
+ssh jussier@clini.dualbit.com.br -p4166
+clini@q1w2
+
+
+
+select p.nome as name, p.cpf as "identity", p.datanascimento as birthdate, p.identidade as rg, p.nome_pai as father, p.nome_mae as mother, 
+	   IIF (substring(lower(p.sexo),1,1) = 'm','1','2') as gender_id,
+	   case when p.estadocivil = 'Casado' then 2 
+			when p.estadocivil = 'Divorciado' then 3 
+			when p.estadocivil = 'Separado' then 5
+			when p.estadocivil = 'Solteiro' then 1
+			when p.estadocivil = 'Viúvo' then 4
+	   end as marital_status_id,        
+	   iif(p.nacionalidade='10','30','') as nationality, null as naturalness, 
+	   'Principal' as title, p.endereco as address, p.numero_endereco as number, p.complemento as complement, p.bairro as neighborhood,
+	   p.cep as zipCode, p.cidade as city, p.estado state -- ,  p.*
+  from paciente p
+ where trim(cpf) <> '';
+
+
+
+select p.nome as name,p.cpf as "identity", p.nascimento as birthdate, p.rg as rg, p.nome_pai as father, p.nome_mae as mother,
+       p.sexo as gender_id, null as marital_status_id, case when trim(p.nacionalidade) =  'Brasileiro' then '30' end as nationality, 
+       null as naturalness, 'Principal' as title, p.logradouro as address, p.numero as number, p.complemento as complement,p.bairro as neighborhood, 
+	   p.cep as zipCode, -- p.cidade as city, p.estado state,
+	   p.* 
+  from ponto.tb_paciente p
+ where 1e1 = 1e1  
+ limit 100;
+
+
+ 
+ 
+=========================
+Padrão de Projetos
+=========================
+Elementos essenciais:
+1. Nome do Padrão
+2. O Problema 
+3. A solução 
+4. As consequências (tradde-offs - conflito de escolha)
+
+MVC 
+Modelo é o objeto de aplicação
+Visão é a apresentação na tela 
+Controlador é o que define a maneira como a interface do usuário
+reage às entradas do mesmo 
+
+
+- Propósito 
+- Motivação 
+- Estruturas 
+- Exemplos de código 
+
+Catálogo dos Padrões de Projeto
+
+A) Padrões criacionais
+   - Factory Method: fornece uma interface para criar objetos em uma superclasse, mas permite 
+					 que as subclasses alterem o tipo de objetos que serão criados.
+				     
+					 Use o Factory Method quando desejar fornecer aos usuários da sua biblioteca
+					 ou framework uma maneira de estender seus componentes internos.
+					 
+   - Abstract Factory: permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.					 
+   
+   - Builder
+   - Prototype 
+   - Singleton
+
+B) Padrões estruturais
+   - Adapter 
+   - Bridge 
+   - Composite 
+   - Decorator 
+   - Façade 
+   - Flyweight 
+   - Proxy 
+   
+C) Padrões comportamentais
+   - Interpreter 
+   - Template Method 
+   - Chain of Responsability 
+   - Command 
+   - Iterator 
+   - Mediator 
+   - Memento 
+   - Observer 
+   - State 
+   - Strategy 
+   - Visitor 
+   
+
+=====================================
+Migração SME - ORACLE19C
+=====================================
+EE19c
+/oracle/ee19c/base/oradata/ee19c
+
+select 'drop user '||username||' cascade;' ddl_user , username, d.*
+  from dba_users d
+ where user_id between 156 and 9000
+   and lower(username) not like '%apex%' 
+   and lower(username) not like '%ords%' 
+   and lower(username) not like '%flows_%'
+ order by 1;
+
+select 'drop tablespace '||tablespace_name||' including contents and datafiles;' ddl_, t.*
+  from dba_tablespaces t
+ where tablespace_name not in ('SYSAUX','SYSTEM','TBSUNDO','USERS','UNDOTBS1','APEX_190100') and tablespace_name not like 'TEMP%'
+order by 1;
+
+
+select * from v$controlfile;
+select * from v$datafile;
+select * from dba_data_files;
+select * from v$instance;
+select * from v$database;
+
+
+SAFARI 
+select * from dba_data_files order by tablespace_name, file_name;
+select username, default_tablespace from dba_users where default_tablespace not in ('SYSAUX','SYSTEM','TBSUNDO','USERS','UNDOTBS1','APEX_190100') order by 1;
+select * from dba_tablespaces where tablespace_name not in ('SYSAUX','SYSTEM','TBSUNDO','USERS','UNDOTBS1','APEX_190100') and contents <> 'TEMPORARY' order by 1;
+select dbms_metadata.get_ddl('TABLESPACE','SAEF') from dual;
+select * from dba_users where username = 'LEITURAPARAVIDA';
+select * from dba_objects where owner = 'LEITURAPARAVIDA';
+
+
+
+https://documentation.suse.com/pt-br/sled/15-SP2/html/SLED-all/cha-adm-shell.html
+https://refactoring.guru/pt-br/design-patterns/abstract-factory
+
+https://www.noticiasaominuto.com.br/economia/1846948/ferramentas-permitem-criar-app-sem-saber-programar
+
+
+
+    watch : {
+        comments(val){
+            console.log('val',val);
+        }
+    }    
+
+
+
+
+https://www.youtube.com/watch?v=3K0GvMyMeyk
+
+
+===================================
+LABPACSIMPORTATION - PHP 
+===================================
+1. Get Studies Postgres 
+
+    Add(' select * from study s where to_date(studydate,'+chr(39)+'yyyymmdd'+chr(39)+') >= current_date -'+str_dias );
+    Add(' and not exists (select 1 from importation i where i.studyinstanceuid = s.studyinstanceuid) ');
+	Add(' order by studydate desc ');
+
+2. Get Studies LaudoRemoto 
+
+	'select studyInstanceUID from studies where cast(studyDate as date) >= current_date() -'+str_dias+' order by studyDate desc ';
+	
+3. While StudiesPostgres 
+	if not StudiesLaudoRemoto.IndexOf 
+       qry_LaudoRemoto.SQL.Text := ' insert into studies (patientID,patientName,patientSex,patientBirthdate,studyInstanceUID,studyDate,studyTime,studyID,studyDescription,accessionNumber, '+
+                                   '                      refPhysName,studyModality,ReportTS,OperatorsName,StationName,InstitutionName,StudyPath,AccessionNumberInserted,imageLink ) '+
+	
+	qry_charrua-->StudiesPostgres 
+	qry_charrua.SQL.Add(' insert into importation values (:studyinstanceuid, now() )');
+	qry_charrua.ParamByName('studyinstanceuid').AsString := mem_charrua.FieldByName('StudyInstanceUID').AsString;
+
+4.  Get RetornoExames (medico e studyInstanceUID)
+
+    qry_LaudoRemoto.SQL.Add(' select studyInstanceUID,m.nome as medico, e.id as exame_id ');
+    qry_LaudoRemoto.SQL.Add('   from exames e ');
+    qry_LaudoRemoto.SQL.Add('   join medicos m on e.medico_id = m.id ');
+    qry_LaudoRemoto.SQL.Add('   where e.updated_at >= current_date() -'+str_dias );
+    qry_LaudoRemoto.SQL.Add('     and update_charrua = 0 ');
+    qry_LaudoRemoto.SQL.Add('     and studyInstanceUID is not null ');
+    qry_LaudoRemoto.SQL.Add(' order by e.updated_at desc ');
+
+5. Update Pacs 
+
+    qry_charrua.SQL.Clear;
+    qry_charrua.SQL.Add(' update study set referphysician = :referphysician where studyinstanceuid = :studyinstanceuid ');
+    
+6. Update LaudoRemotoAux
+
+   Qry_LaudoRemotoAux.SQL.Clear;
+   Qry_LaudoRemotoAux.SQL.Add(' update exames set update_charrua = 1 where id = :exame_id ');
+
+
+=============
+ENTREVISTA
+=============
+squad completo 
+fluter
+
+Grunt é um executor de tarefas JavaScript, uma ferramenta usada para executar automaticamente tarefas frequentes, como minificação, compilação, teste de unidade e fiapos.
+
+Gulp é um kit de ferramentas JavaScript de código aberto criado por Eric Schoffstall usado como um sistema de criação de streaming no desenvolvimento web front-end
+
+Webpack é um empacotador de módulos JavaScript de código aberto. Ele é feito principalmente para JavaScript, mas pode transformar ativos de front-end, como HTML, CSS e imagens, se os carregadores correspondentes forem incluídos.
+
+npm é um gerenciador de pacotes para o Node.JS
+npx server - Servirdor Http Node.js - The npx Node.js Package Runner 
+
+Arquitetura JavaScript 
+- Call Stack (chamadas de funções)
+- Call Back Queue (empilhamento de callbacks)
+- Event Loop
+
+FullStack JavaScript Developers 
+
+
+============================================
+ React
+============================================
+# React
+    Biblioteca para construir telas de forma declarativa baseada em componentes.
+# Redux
+    Biblioteca para gerenciamento de Estado, implementação do FLUX.
+    - Reducer: Função para mutar um estado baseando em uma Actions (switch)
+    - ActionTypes: Objeto que tem um Type e um Payload
+    - ActionCreators: Função que retorna uma action
+# TypeScript
+    Superset de JavaScript para trabalhar com tipagem.
+# Duck Pattern
+    Forma de organização que une Reducers e Actions a fim de diminuir a quantidade de arquivos.
+# Styled Componente
+    Biblioteca para usar estilo a nível de componente (mistura de JavaScript e CSS).
+# Hooks
+    Funções que permite fazer a ligação de recursos de estados do react.
+    - useSelector: Estado da store
+    - useDispatch: Dispara as actions para a store
+    - useState: Estado do componente (Context)
+    - useEffects: Eventos do Componente
+# Redux Toolkit
+    Ferramentas para desenvolver com redux com mais eficiência.
+    - Slicer: Conjunto de Reducers e Actions de uma features (ActionTypes, ActionCreators e Reducers)
+# Thunk
+    Middleware para Action Creators que retorna função invés de Action
+# UIs: 
+    AntDesign, MUI (Material UI), React Bootstrap, PrimeReact
+
+============================================
+ Next.js (Vercel)
+============================================
+# Framework para React
+# Abstrai Configurações
+# Roteamento Simplificado
+# Server-Side Renderer
+# Serverless (backend monolítico)
+
+
+============================================
+ Design Patterns (Mais usados)
+============================================
+# Decorator
+    Adiciona dinamicamente comportamentos(métodos) para um objeto.
+# Iterator
+    Percorrer coleção por objeto separado.
+# Builder
+    Encapsula lógica de construção de um objeto.
+# Mock Object
+    Objetos falsos para criação/teste de um outro objeto.
+# Dependency Injection
+    Mantem o baixo nível de acoplamento onde são injetados dependências entre diferentes módulos.
+# Facade
+    Camada de abstração, é um interface unificada para um conjunto de interfaces em subsistemas.
+# Observer
+    Eventos, quando o objeto muda o estado, todos os seus dependentes são notificados e atualizados automaticamente.
+
+============================================
+ Clean Code (Conceitos)
+============================================
+# Somos autores do nosso código
+    Passamos dez vezes mais tempo lendo o código do que escrevendo-o, escreva seu código como se fosse uma história de fácil leitura.
+# Nomes significativos
+    Escolher bons nomes leva tempo, mas economiza muito mais!
+# Usar nomes passíveis de busca
+    Não abrevie e evite siglas, exceto se todos conhecerem.
+# Evitar números mágicos
+    Sempre que possível utilize constantes.
+# Evitar condicionais negativos
+# Encapsular condicionais (retornar boolean)
+# Evitar Comentários
+# Evitar o uso de flags como parâmetro
+
+============================================
+ Arquiteturas de Software
+============================================
+# Layers (camadas)
+# Client-server (cliente-servidor)
+# Model-view-controller (MVC)
+# Microservices (microsserviços)
+# Pipes-and-filters (PF)
+# Peer-to-Peer (P2P)
+# Service-Oriented Architecture (SOA)
+# Publish-Subscribe (Pub/Sub)
+
+====================================
+ Teste Unitário
+====================================
+# Before
+# After
+# Assertions
+    Validações lógicas para testar os recursos
+# Mock
+    Objetos falsos para serem utilizados nos testes
+
+====================================
+ Metodologias
+====================================
+# SCRUM
+    Papéis
+        - Product Owner (PO)
+        - Scrum Master (SM)
+        - Team
+    Artefatos
+        - Backlog
+            Product Backlog (Requisitos o Produto)
+            Sprint Backlog (Requisitos da Sprint)
+        - Story (Papel -> O que Fazer -> O que motiva)
+        - BurnDown (Gráfico Progresso/Prazo)
+    Eventos
+        - Sprint (Reunião Semanal)
+            Planing (Planejamento da Sprint)
+        - Daily Scrum (Reunião Diária)
+        - Sprint Review
+        - Sprint Retrospective
+# TDD
+    Test Driven Development
+    - Red: Cria teste com erro
+    - Green: Desenvolve o resource para corrigir o erro
+    - Refactor: Refatora o código para melhorar
+# DDD
+    Domain-Driven Design
+    Design é orientado pelo domínio/regra de negócio
+
+Reducers -> Gerenciamento de estado da sua aplicação
+
+ActionCreator -> (Função -> return Action)
+Action -> Objeto (com attributo type) 
+Reducer -> Funções Puras 
+
+
+
+
+
+
+
+==================
+ANS reclamação
+==================
+0800 701 9656
+Protocolo: 7695818
+
+
+
+https://www.section.io/engineering-education/compile-your-nodejs-application-into-a-exe-file/
+nexe
+pkg
+
+Clean Code 
+Refactoring
+Driven Design
+
+
+antonio.ramos@sysmap.com.br
+
+=================================
+SYSMAP - KROTON  - Perola2007
+=================================
+antonio.ramos-sys
+5pCj@tyAJr
+Perola2007!
+
+
+
+
+async -> wait 
+
+síncrona (operação em uma única thread)
+espera a execução ser finalizada para partir pra próxima
+myFunc();
+myFunc2();
+
+Código assincrono pode iniciar um processo agora e finalizar posteriormente 
+
+Promisse : objeto que representa um sucesso ou uma falha de uma operação assíncrona 
+
+
+https://dog.ceo/api/breeds/image/random
+
+Helio... (Alteração do Relatório) JOIN adicionado 
+
+
+REDE PÚBLICA (WAN)
+Bloco: 189.113.8.48 /29
+Gateway: 189.113.8.49
+VLAN: 2180
+
+REDE PRIVADA (LAN)
+Bloco: 10.32.21.48 /28
+Gateway: 10.32.21.49
+VLAN: 699
+
+route add -net 10.64.0.0 netmask 255.240.0.0 gw 10.32.21.49 dev eth1
+
+route add -net 10.32.0.0 netmask 255.240.0.0 gw 10.32.21.49 dev eth1
+
+ 
+==============
+English 
+==============
+WordParty 
+S1E1
+
+
+1. Identify objects around you in English
+2. Repeat phrases you hear native speakers use
+3. Make a situation where you can't escape into your native language.
+4. Watch TV and movies in your target language without subtitles. 
+5. Don't bring a dictionary to your lesson. 
+6. Train responses to common questions.
+7. Study with materials that don't provide a translation. 
+8. Study phrases in addition to single vocabulary.
+9. Do you daily activities in English (where possible).
+10. Use a learner's dictionary for new words. 
+
+
+
+
+
+
+
+
+{
+"request": {
+    "id" : 1,
+    "partnerId" : 1,
+    "user": "Helder", // Autolac (usuario)
+    "password": "50405082", // Autolac (senha_sline)
+    "localCode": "26", // local
+    "destinationCode": "26", // localDestino(26)
+    
+    "createdAt": '2021-12-28 16:05:07.7170000', // dataSolicitacao    
+    "deliveryAt": '2021-12-29 16:05:07.7170000', // horario_entrega
+    "healthInsurance": "PARTICULAR", // convenio
+
+    "exams": [
+        {
+            "integrationCode": 'HECO',
+            "description": 'HEMOGRAMA COMPLETO',
+            "value": 15.8, //valor(15)
+            "invoicedValue": 15.8 //valorFaturado(15)
+        },
+        {
+            "integrationCode": 'GLICO',
+            "description": 'GLICOSE',
+            "value": 7.4, //valor(15)
+            "invoicedValue": 7.4 //valorFaturado(15)
+        }
+    ],
+
+    "patient": {
+        "id": 1,
+        "name": "Antonio Pallocci",
+        "birthdate": '1990-12-24 00:00:00',
+        "gender": 'Masculino',
+        "identity": '57946230397',  // 57406910363
+        "phone": '85988826456'
+    },
+
+    "requester": {
+        "id": 1,
+        "name": 'Dr. Helder',
+        "identity": '22222222222',
+        "councilNumber": 'CRM1521',
+        "password": '123456'
+    },
+
+    "payment": {
+        "paidAt": '2021-12-28 16:05:07.7170000',
+        "value": 23.2, // valor(15)
+        "type": 'Dinheiro' // formaPagamento(Dinheiro)
+    }
+
+    
+    }
+}
+
+
+
+-- select * from paciente where id = 8385258
+-- select id from paciente order by 1 desc 
+
+declare @idPaciente int;
+declare @local varchar(2) = '01';
+declare @Protocolo int;
+declare @data datetime;
+declare @convenio varchar(20) = 'PARTICULAR'; -- TESTE
+declare @HorarioEntrega datetime;
+declare @solicitante int = 11306;
+
+set @data = (select getdate());
+set @HorarioEntrega = (select cast( cast(datepart(year,getdate()) as varchar)+'-'+cast(datepart(mm,getdate()) as varchar)+'-'+cast(datepart(mm,getdate()) as varchar)+' '+cast(horario_entrega as varchar) as datetime)
+						 from local where id = @local);
+
+set @protocolo = (select registro + 1 from local where id = @local); 
+update local set registro = @protocolo where id = @local;
+
+exec dbo.PROC$NEXT_SEQUENCE 'GEN_ID_PACIENTE', 0
+set @idPaciente = (select VALOR from TBL$SEQUENCE where NOME = 'GEN_ID_PACIENTE');
+
+-- NOMrE, CPF, TELEFONE, DTNASC, SEXO 
+exec iud_paciente N'I',@idPaciente,N'Antonio Pallocci ',N'',N'',N'',NULL,NULL,N'',N'',N'01632323699',
+				  N'','1990-12-24 00:00:00',N'Masculino',NULL,NULL,NULL,NULL,N'',N'',N'',N'',
+				  N'P',NULL,N'',N'',30,N'',NULL,
+				  N'T',N'F',N'10',N'',@data,N'',N'',
+				  NULL,NULL,N'',N'',N'',NULL,N'',NULL,N'',N'85999999999',
+				  N'',N'F',N'',N'',N'',N'',N'',
+				  NULL,NULL,NULL,NULL,NULL,N'',N'F',N'',N'',
+				  NULL,'','',NULL,'F',NULL,NULL;
+
+
+exec iud_requisicao 
+N'I',@local,@protocolo,@data,@idPaciente,@solicitante,@convenio,@convenio,N'',N'RAPHAEL BRUNO FAFA',N'',
+15,0,15,N'HEMOGRAMA COMPLETO GLICOSE TTPA - TEMPO PARCIAL DE TROMBOPLASTINA ATIVADACONSULTA PROCTOLOGISTA',
+@data,N'HECO      GLICO     TTPA      CONSULPROC',N' HECO,  GLICO,  TTPA,  CONSULPROC, ',
+@HorarioEntrega,N'',N'',N'',N'HELDER',N'',@data,N'0',
+NULL,NULL,NULL,@local,@protocolo,@data,N'',@data,NULL,NULL,0,
+N'T',N'T',N'50405082',N'',NULL,NULL,N'F',
+NULL,NULL,NULL,N'',N'E',5,NULL,
+5,NULL,NULL,NULL,0,0,N'',
+NULL,NULL,N'HELDER',N'',N'F',N'F',N'F',
+N'F',NULL,N'F',1,N'26',N'30 anos',NULL,NULL,
+NULL,NULL,NULL,NULL,NULL,N'F',
+N'F',NULL,N'F',NULL,NULL,N'F',
+NULL,N'F',NULL,'F',1,NULL,NULL,
+NULL,NULL,NULL;
+
+/*
+exec IUD_REQUISICAO N'I',@local,@protocolo,@data,@idPaciente,NULL,N'TESTE',N'TESTE',N'',N'RAPHAEL BRUNO FAFA',N'',0,0,0,N'HEMOGRAMA COMPLETO                    GLICOSE                               
+TTPA - TEMPO PARCIAL DE TROMBOPLASTINA ATIVADACONSULTA PROCTOLOGISTA                
+',@data,N'HECO      GLICO     TTPA      CONSULPROC',N' HECO,  GLICO,  TTPA,  CONSULPROC, ',@data,N'',N'',N'',N'HELDER',N'',@data,N'0',NULL,NULL,NULL,N'26',972,@data,N'',
+@data,NULL,NULL,0,N'T',N'T',N'50405082',N'',NULL,NULL,N'F',NULL,NULL,NULL,N'',N'E',5,NULL,5,NULL,NULL,NULL,0,0,N'',NULL,NULL,N'HELDER',N'',N'F',N'F',N'F',N'F',NULL,N'F',
+1,N'26',N'30 anos',NULL,NULL,NULL,NULL,NULL,NULL,NULL,N'F',
+N'F',NULL,N'F',NULL,NULL,N'F',NULL,N'F',NULL,'F',1,NULL,NULL,NULL,NULL,NULL
+*/
+
+exec iud_itemrequisicao N'I',@local,@protocolo,N'HECO',15,15,N'P',1,NULL,N'T',NULL,N'F',NULL,N'E',NULL,N'E',15,
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,NULL,N'',N'F',NULL,NULL,NULL,N'N',1,1,N'',N'',0,1,NULL,NULL,N'T',
+NULL,N'EVENTUAL',NULL,N'F',NULL,NULL,NULL,NULL,N'F',NULL,NULL,N'F',NULL,NULL,NULL,'T',N'F',NULL,NULL,NULL,NULL,NULL,NULL,N'F',NULL,
+NULL,NULL,NULL,NULL,NULL,N'F',NULL,NULL,NULL;
+
+print @idPaciente;
+print @Protocolo;
+
+exec clini_alarico_rastreabilidade.dbo.insere_status_req @local,@protocolo,N'Início Atendimento',N'HELDER',@data,N'',N'NOTEDUALBIT',NULL;
+
+-- set @p11=666297
+exec IUD_PAGAMENTOS N'I',NULL,@local,@protocolo,@data,15,@data,N'HELDER',N'Dinheiro',0, null  --,@p11 output
+
+
+
+
+I am nervous.
+I feel a little sick.
+I took the third dose of covid vaccine.
+
+
+fact 
+frequency
+routine 
+
+7. Buy 
+8. clean 
+9. think 
+10. do 
+12. sleep
+13. talk
+14. Water 
+16. goes 
+21. sneek 
+
+celebridades com th 
+
+
+
+
+Movie 01 -   
+  
+I've always had a fascination for computers and technology,
+and I made a few apps for the iPhone, iPod touch, and iPad. 
+I'd like to share a couple with you today. 
+
+My first app was a unique fortune teller called "Earth Fortune".   
+that would display different colors of Earth depending on what your fortune was. 
+
+
+My favorite and most successful app is "Bustin Jieber", 
+which is a Justin Bieber whack-a-mole. 
+I created it because a lot of people at school 
+disliked Justin Bieber a little bit, so I decided to make the app. 
+
+So I went to work programming it, and I released it just before the holidays in 2010. 
+
+A lot of people ask me, how did I make these? 
+A lot of times it's because the person who asked the question wants to make an app also.
+A lot of kids these days like to play games, but now they want to make them, and it's difficult, 
+because not many kids know where to go to find out how to make a program. 
+
+I mean, for soccer, you could go to a soccer team. For violin, you could get lesson for a violin. 
+But what if you want to make an app? 
+
+And the kid's parents might have done some of these things when they were young, 
+but not many parent have written apps. 
+
+Where do you go to find out how to make an app?
+Well, this is how I approached it, this is what I did.  
+
+fôrssovol
+First of all, I've been programmimg in multiple other programming languages
+to get the basics down, such as Python, C, Java, etc. 
+
+And then Apple released the iPhone, and with it, the iPhone software development kit, 
+and the software development kit is a suite of tools for creating and programmimg an iPhone app. 
+
+This opened it a whole new world of possibilities for me, 
+and after playing with the software development kit a little bit, 
+I made a couple of apps, I made some test apps. 
+
+One of them happened to be "Earth Fortune", 
+and I was to put "Earth Fortune" on the App Store, 
+and so I persuaded my parents to pay the 99 dollar fee 
+to be able to put my apps on the App Store. 
+
+They agreed, and now I have apps on the App Store. 
+I've gotten a lot of interest and encouragement from my family, friends, 
+teachers and even people at the Apple Store, and that's been a huge help to me. 
+
+I've gotten a lot of inspiration from Steve Jobs, 
+and I've started an app club at school, 
+and a teacher at my school is kindly sponsoring my app club. 
+
+Any student at my school can come and learn how to design an app. 
+This is so I can share my experiences with others. 
+
+There's these programs called the iPad Pilot Program, 
+and some districts have them. 
+
+I'm fourtunate enough to be part of one. 
+A big challeng is, how should the iPads be used, 
+and what apps should we put on the iPads? 
+
+So we're getting feedback from teachers at the school 
+to see what kind of apps they'd like. 
+
+When we design the app and we sell it,
+it will be free to local districts; and other districts that we sell to 
+all the money from that will go into the local ed foudantions. 
+
+Theses days, students usually know a little bit more than teachers 
+with the technology. Sorry... 
+
+So this is a resource to teachers, 
+and educators should recognize this resource and make good use of it. 
+
+I'd like to finish up by saying what I'd like to do in the future. 
+First of all, I'd like to create more apps, more games. 
+
+I'm working with a third party company to make an app. 
+I'd like to get into Android programming and development, 
+and I'd like to continue my app club, 
+and find other ways for students to share knowledge with others. 
+
+
+Thank you
+
+Move 02 - What do an Hero?
+
+
+What do Harry Potter, Katniss Everdeen, and Frodo 
+all have in common with the heroes of ancient myths? 
+
+What if I told you they are all variants of the same hero? 
+Do you believe that? Joseph Campbell did. 
+
+He studied myths from all over the world and published a book called 
+"The Hero with a Thousand Faces" retelling dozens of stories 
+and explaining how each represents the mono-myth, or Hero's Journey.
+
+So, what is the "hero's journey"? Think of it as a cycle. 
+The journey begins and ends in a hero's ordinary world, 
+but the quest passes through an unfamiliar, special world. 
+
+Along the way, there are some key events. 
+Think about your favorite book or movie. 
+Does it follow this pattern?
+
+Status quo, that's where we start. 
+1:00 Call to Adventure
+     The hero receives a mysterious message. 
+	 An invitation, a challenge? 
+
+2:00 Assistance 
+	 The hero needs some help, probably from someone older, wiser. 
+
+3:00 Departure 
+	 The hero crosses the thresold from his normal, safe home, 
+	 and enters the special world and adventure. 
+	 We're not in Kansas anymore. 
+
+4:00 Trials 
+	 Being a hero is hard work 
+	 our hero solves a riddle, 
+	 slays a monster, 
+	 escapes from a trap.
+
+5:00 Approach 
+	 It's time to face the biggest ordeal, the hero's worst fear. 
+
+6:00 Crisis 
+	 This is the hero's darkest hour. 
+	 He faces death and possibly even dies, 
+	 only to be reborn. 
+
+7:00 Treasure 
+	 As a result, the hero claims some treasure, 
+	 special recognition, or power. 
+
+8:00 Result 
+	 This can vary between stories. 
+	 Do the monsters bow down before the hero, 
+	 or do they chase him as the flees from the especial world? 
+	
+9:00 Return 
+	 After all that adventure, the hero returns to his ordinary world. 
+
+10:00 New Life 
+	  This quest has changed the hero; he has outgrown his old life. 
+
+11:00 Resolution 
+	  All the tangled plot lines get straightened out
+
+12:00 Status Quo
+	  but upgraded to a new level. 
+	  Nothing is quite the same once you are a hero.
+
+Many popular books and movies 
+follow this ancient formula pretty closely. 
+
+But let's see how well "The Hunger Games" fits the hero's journey template. 	  
+
+When does Katniss Everdeen hear her call to adventure 
+that gets the story moving? 
+
+When her sister's name is called from the lottery.
+
+How about assistance? 
+Is anyone going to help her on her adventure? Haymitch 
+
+What about departure? 
+Does she leave her ordinary world? 
+She gets on a train to the capital. 
+
+Ok, so you get the idea. 
+
+What do you have in common with Harry Potter, Katniss Everdeen, and Frodo?
+Well, you're human, just like them. 
+
+The Hero's Journey myth exists in all human cultures 
+and keeps getting updated, 
+because we humans reflect on our world 
+through symbolic stories of our own lives. 
+
+You leave your comfort zone, 
+have an experience that transforms you, 
+and then you recover and do it again. 
+
+You don't literally slay dragons or fight Voldemort, 
+but you face problems just as scary. 
+
+Joseph Campbell said, 
+In the cave you fear to enter lies the treasure you seek"
+What is the symbolic cave you fear to enter? 
+Auditions for the school play?
+Baseball tryouts? 
+Love? 
+
+Watch for this formula in books, movies, and TV shows you come across. 
+You will certainly see it again. 
+
+But also be sensitive to in your own life. 
+Listen for your call to adventure. 
+Accept the challenge. 
+
+Conquer your fear and claim the treasure you seek. 
+And then, do it all over again. 
+
+
+Alfabeto fonético em ingles 
+40 fonemas
+26 grafemas 
+
+- consoantes (1, 2)
+  p /p/ - pa 
+  b /b/ - ba 
+  t /t/ - ti 
+  d /d/ - di 
+  x ou ch  /shi/ 
+	   fish / nation / machine / special / tension / anxious 
+	   profession / sugar / pressure / counscious / ocean 
+  g /gi/ 
+        measure / television / seizure / massage / genre / luxurious 
+        
+  ch /tchi/ - africada, alveolopalatal desvozeada 
+			church / match / future / question / h (letra)  
+	
+  j ou g  /di/ - africada, alveolopalatal vozeada 
+		John / gym / knowledge / during / gradual 
+		
+   /k/   oclusiva, velar desvozeada 
+         kind / cat / occur / luck / quay / stomach  
+         
+   /g/ - ga - big / biggest / guard 
+   /f/ - fu - face / offer / philip / enough 
+   /v/ - vu - video / of 
+   /s/ - ci - soccer / miss / face / science  
+   /z/ - zebra / buzz / nose / possess / exam 
+   /m/ - them / 
+   /n/ - hifen / nelson
+   /h/ - hat 
+   /l/ - fell 
+   /r/ - wrong / wrist / write 
+   
+   consoantes que não tem no portugues 
+   /th/ zuuuu - zumbido - zorro - zara 
+   /th/ seeee - 
+   /ng/ - ring / think / thing 
+   
+   vogais que tem em portugues 
+   /e/ - bed / dead / egg / many / bread / said / says / 
+		 friend / bury / heir / jeopardize    
+   
+   /o/ - boss / four / I saw / daughter / saw / small / wrong /
+	     thought / floor / pour / august 
+
+   /i/ - be / speak / beach / meet / key / quay / believe /
+	     receive / ski / people / phoebe / happy 
+
+   /u/ - blue / shoe / flew / flu / do / soup / true / 
+         google / suit / 
+   
+   vogais que não tem em portugues    
+   /e(contrario)/ schwa - e de gente metida (ê)  - 
+		about / ego / accept / famous 
+   
+   /^/ (a)  bus / love / won / country / luck / cup / nut  
+   
+   /3/ (êr)  learn / bird / verb / search / firm / occur / world / nerd 
+   
+   /ou/  book / good / look / tour / put / could / full (foul)
+   
+   /I/ (ê) it / big / been / minute / build / pier / clear / weird 
+           hit / this / his / fill / hill / sit 
+   
+   /ae/ (aesch) - bad / dad / laugh / salmon / plaid / man / pan /
+        sad / dad 
+        
+   /a/  father / bar / hot / heart / guard / sergeant / 
+		calm / gone / dollars / on / bother / 
+   
+  ditongos 
+  /aI/   fly / eye / night / pie / like / sky / guide / 
+		 dye / buy / height / sign / five 
+		 
+  /aU/  now / out / town / mouth / south / pound / 
+		thousand / mouse / found 
+  
+  /oI/  boy / voice / choice / coin / 
+  
+  /eI/ great / say /  rain / cake / spain / stay / 
+	   break / eight / ballet 
+	   
+  /oU/ go / boat / know / so / sow / sew / though / toe / folk 
+
+  semis 
+  /j/  you / year / university / europe / view / few / 
+	   beatiful / million 
+	   
+  /w/  what / when / why / where / quick / one / once 
+
+
+Monday 		- mândei 
+Tuesday 	- tchúsdei 
+Wednesday 	- uénisdei 
+Thursday 	- thârsdei 
+Friday 		- fruáidei 
+Saturday 	- sáturdei 
+Sunday 		- Sândei 
+
+
+
+Are you hungry? / Está com fome?
+Are you thirsty? / Você está com sede?
+Can you come back later? / Você pode voltar mais tarde?
+Can you fix it? / Você pode concertar isso?
+Can you give me directions? / Alguém pode indicar o caminho?
+Could you help me? / Você poderia me ajudar?
+Do you like your job? / Do you like your job?
+How do I fix? / Como faço para corrigir?
+I am busy right now. / Agora estou ocupado.
+I am hungry. / Eu estou com fome.
+I am lost. / Eu estou perdido.
+I am thirsty. / Estou morrendo de sede.
+I am tired. / Eu estou cansado.
+I can fix it. / Eu posso consertar.
+I can speak English. / I can speak English.
+I don't like to watch movies. / I don't like to watch movies.
+I have not seen the movie. / Eu não vi o filme.
+I have to use the bathroom. / Eu tenho que usar o banheiro.
+I like listen to classic rock. / I like listen to classic rock.
+I like listening to music. / Eu gosto de ouvir música.
+I live with my family. / Eu moro com minha família.
+I read books in my free times. / I read books in my free times.
+I really like birds. / Eu gosto muito de pássaros.
+I want to get a better job.&nbsp; / Eu quero conseguir um emprego melhor.
+I work at a bank. / I work at a bank.
+I work at a bank. / I work at a bank.
+I'm going to sleep. / Eu vou dormir
+I'm learning English at school. / I'm learning English at school.
+It has stayed the same. / Ficou igual.
+It is different now. / É diferente agora.
+Let's go to the movies. / Vamos ao cinema.
+May I borrow it? / Posso pegar emprestado?
+My address is 750, Carnaubas Street.&nbsp; / My address is 750, Carnaubas Street.&nbsp;
+My last name is Ramos. / My last name is Ramos.
+Sorry, I decline. / Desculpe, eu recuso.
+The bathroom is too dirty. / O banheiro está muito sujo.
+The bathroom needs cleaning.&nbsp; / O banheiro precisa de limpeza.
+The batteries are dead. / The batteries are dead.
+The batteries are dying. / As baterias estão acabando.
+The movie was bad.&nbsp; / O filme foi ruim.
+The movie was good.&nbsp; / O filme foi bom.
+The phones needs new batteries. / The phones needs new batteries.
+The sink needs to be cleaned.&nbsp; / A pia precisa ser limpa.
+Was the movie good? / O filme foi bom?
+What are you doing right now? / What are you doing right now?
+What are you hobbies? / What are you hobbies?
+What do you do for fun? / O que você faz para se divertir?
+What do you do in your free time? / What do you do in your free time?
+What do you do? / O que você faz?
+What is your email address? / What is your email address?
+What is your favorite movie? / What is your favorite movie?
+What is your last name? / What is your last name?
+What is your name? / What is your name?
+What is your phone number? / What is your phone number?
+What kind of batteries does it take? / Que tipo de baterias leva?
+What kind of movies do you like? / Que tipo de filmes você gosta?
+What kind of music to you listen to? / Que tipo de música você ouve?
+What languages can you speak? / What languages can you speak?
+What movies have you recently watched? / Quais filmes você assistiu recentemente?
+What's your address? / What's your address?
+What's your favorite animal? / What's your favorite animal?
+What's your nationality? / What's your nationality?
+Where are you from? / Where are you from?
+Where are you learning English? / Onde você está aprendendo inglês?
+Where do you live? / Where do you live?
+Where do you work? / Where do you work?
+Where is the bathroom? / Onde fica o banheiro?
+Where is the lady's room? / Onde fica o banheiro feminino?
+Where is the men's room? / Onde fica o banheiro masculino?
+Which movie do you want to see? / Which movie do you want to see?
+Who do you live with? / Com quem você mora?
+Who was your favorite character? / Quem era seu personagem favorito?
+Why do want to learn English? / Por que você quer aprender inglês?
+Would you like something to drink? / Você gostaria de algo para beber?
+Would you like something to eat? / Você gostaria de algo para comer?
+Would you like to go to the movies? / Você gostaria de ir ao cinema?
+Would you like to hang out sometime? / Você gostaria de sair algum dia?
+Would you like to visit me? / Would you like to visit me?
+You look nice today. / Você parece bem hoje.
