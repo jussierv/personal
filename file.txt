@@ -1,2 +1,6 @@
 Esse é o meu nome: Jussiêr Ramos
+<<<<<<< HEAD
 Agora vou alterar esse comando aqui - uma nova branch
+=======
+Eu sou uma nova linha nesse arquivo
+>>>>>>> 8b1e7ef189192a8fbcd559b4af563c8da3976c68
